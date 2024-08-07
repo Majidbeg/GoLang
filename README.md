@@ -34,6 +34,12 @@
 
 ### ARRAYS
 
+### slice- slice is an abstraction of an array, and can be resized whenever needed
+
 # Pointers
 
 ### Pointers in Go lang also called special varibales
+
+# Loops
+
+### only one loop which is for loop with different type
