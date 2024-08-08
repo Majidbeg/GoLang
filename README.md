@@ -43,3 +43,11 @@
 # Loops
 
 ### only one loop which is for loop with different type
+
+### have sturct but no classes and no inheritance and no overloading/writing
+
+# Missing thing in Golang
+
+### No try catch
+
+### lexer does a lot of work
